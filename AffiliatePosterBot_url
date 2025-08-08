@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Affiliate Poster Bot Disclosure</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2em;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #0057b7;
+    }
+    footer {
+      margin-top: 2em;
+      font-size: 0.9em;
+      color: #777;
+    }
+    .section {
+      margin-bottom: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Affiliate Poster Bot</h1>
+
+  <div class="section">
+    <h2>Privacy Policy</h2>
+    <p>This bot automates the posting of affiliate content to social media platforms. It does not collect, store, or share any personal data from users or viewers. All operations are performed using authorized access tokens and comply with platform policies.</p>
+  </div>
+
+  <div class="section">
+    <h2>Terms of Service</h2>
+    <p>Use of this bot is subject to the terms and conditions of the platforms it interacts with (e.g., Facebook, Instagram). All affiliate links are disclosed transparently. Users are responsible for ensuring compliance with local laws and platform guidelines.</p>
+  </div>
+
+  <footer>
+    <p>Contact: chancydev@example.com</p>
+    <p>© 2025 Affiliate Poster Bot</p>
+  </footer>
+</body>
+</html>
